@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lakshit-wasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshitwasan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/lakshit-wasan](https://www.linkedin.com/in/lakshit-wasan-aa4745252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshitwasan" height="30" width="40" /></a>
 <a href="https://instagram.com/lakshitwasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshitwasan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/life of lakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="life of lakshit" height="30" width="40" /></a>
 </p>
