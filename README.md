@@ -1,9 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/lakshitwasan)
 
 <h1 align="center">Hi 👋, I'm Lakshit Wasan</h1>
-<h3 align="center">I'm just a 19-year old who chose BTech CSE without thinking about it, but now kinda likes it😂❤</h3>
+<h3 align="center">I'm just a 20-year old who chose BTech CSE without thinking about it, but now kinda likes it😂❤</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it8bit.com%2Fpost%2F718305390519009280%2Fchill-of-the-wild-gif-by-pixel-jeff-ig&psig=AOvVaw0zmXqJVWK_E3tG2GmiM88I&ust=1714772084386000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjTrv3174UDFQAAAAAdAAAAABAK">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshitwasan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshitwasan" /> </p>
 
