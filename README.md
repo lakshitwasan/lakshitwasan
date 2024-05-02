@@ -1,8 +1,10 @@
-[![MasterHead](https://github.com/lakshitwasan/lakshitwasan/assets/95538553/611a3906-20e1-4f41-b58c-38cc551bc055)
+![MasterHead](https://github.com/lakshitwasan/lakshitwasan/assets/95538553/611a3906-20e1-4f41-b58c-38cc551bc055)
 
 
 <h1 align="center">Hi 👋, I'm Lakshit Wasan</h1>
 <h3 align="center">I'm just a 20-year old who chose BTech CSE without thinking about it, but now kinda likes it😂❤</h3>
+
+<br>
 
 
 
