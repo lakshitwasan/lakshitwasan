@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lakshit Wasan</h1>
 <h3 align="center">I'm just a 20-year old who chose BTech CSE without thinking about it, but now kinda likes it😂❤</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it8bit.com%2Fpost%2F718305390519009280%2Fchill-of-the-wild-gif-by-pixel-jeff-ig&psig=AOvVaw0zmXqJVWK_E3tG2GmiM88I&ust=1714772084386000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjTrv3174UDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftatibana.com.br%2F%3Fm%3Dcreate-pixel-art-animations-and-illustrations-by-dsimilar-fiverr-dd-gdDPkkik&psig=AOvVaw0zmXqJVWK_E3tG2GmiM88I&ust=1714772084386000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj-i43374UDFQAAAAAdAAAAABAT">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshitwasan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshitwasan" /> </p>
 
