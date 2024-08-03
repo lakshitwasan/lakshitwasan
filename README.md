@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **lakshitwasan31@gmail.com**
 
-- ⚡ Fun fact **You can interest me in a sarcastic comment!! **
+- ⚡ Fun fact **You can interest me in a sarcastic comment!!**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshitwasan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshitwasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lifeoflakshit6119) 
