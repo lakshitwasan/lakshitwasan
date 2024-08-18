@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/lakshitwasan/lakshitwasan/assets/95538553/e746d2c4-6ee6-476a-b55d-a46e57f9aa77">
+<img align="right" alt="coding" width="400" src="https://github.com/lakshitwasan/lakshitwasan/assets/95538553/e746d2c4-6ee6-476a-b55d-a46e57f9aa77"> 
 
 
   
