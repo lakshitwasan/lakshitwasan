@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lakshit Wasan</h1>
-<h3 align="center">I'm just a 20-year old who chose BTech CSE without thinking about it, but now kinda likes it😂❤</h3> 
+<h3 align="center">I'm just a 20-year old who chose BTech CSE without thinking about it, but now kinda likes it😂❤    </h3> 
 
 <br>
 
