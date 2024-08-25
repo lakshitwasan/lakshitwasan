@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshitwasan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshitwasan" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development** 
 
 - 🌱 I’m currently learning **NodeJs and React**
 
